@@ -1,46 +1,63 @@
-<h1 align="center">Hi 👋, I'm Vansh</h1>
-<h3 align="center">First-Year CS Student @ UPES</h3>
+<h1 align="center">▌│█║▌║▌║ SYSTEM ONLINE ║▌║▌║█│▌</h1>
+
+<h2 align="center">> USER: Vansh</h2>
+<h4 align="center">> ROLE: First-Year CS Student @ UPES</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=520&lines=C+Programmer;Python+Developer;Figuring+Out+My+Best+Language;Learning+By+Building+Everyday" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=00FF41&center=true&vCenter=true&width=620&lines=Initializing+Developer+Profile...;Loading+C+Compiler...;Activating+Python+Runtime...;Scanning+Problem-Solving+Modules...;Status:+LEARNING+MODE+ENABLED" />
 </p>
 
 ---
-
-## 🧠 About Me
-- 🎓 First-year student at **UPES**
-- 💻 Learning **C** and **Python**
-- 🔍 Currently figuring out my **strongest programming language**
-- 🧩 Interested in problem-solving and core computer science concepts
-
-> *“Learn the fundamentals. The rest follows.”*
+╔══════════════════════════════════════════════╗
+║               SYSTEM PROFILE                 ║
+╠══════════════════════════════════════════════╣
+║ USER        : Vansh                          ║
+║ INSTITUTE   : UPES                           ║
+║ YEAR        : 1st Year                       ║
+║ DOMAIN      : Computer Science               ║
+║ LANGUAGES   : C, Python                      ║
+║ MODE        : Skill Discovery                ║
+║ FOCUS       : Fundamentals & Logic            ║
+╚══════════════════════════════════════════════╝
+> “Learn the fundamentals. The rest follows.”
 
 ---
-
-## 🛠 Tech Stack
+╔══════════════════════════════════════════════╗
+║               TECH STACK                     ║
+╠══════════════════════════════════════════════╣
+║ [ C ] [ PYTHON ] [ GIT ] [ GITHUB ]           ║
+╚══════════════════════════════════════════════╝
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,git,github&theme=dark" />
 </p>
 
 ---
-
-
-## 🚀 What I’m Working On
-- Strengthening programming fundamentals
-- Practicing C and Python regularly
-- Writing clean, readable code
-- Exploring different problem-solving approaches
-
+╔══════════════════════════════════════════════╗
+║           CURRENT OPERATIONS                 ║
+╠══════════════════════════════════════════════╣
+║ ✓ Strengthening core programming concepts    ║
+║ ✓ Practicing C and Python daily              ║
+║ ✓ Writing clean & readable code              ║
+║ ✓ Exploring multiple logic approaches        ║
+╚══════════════════════════════════════════════╝
 ---
-
-## 📌 Repository Focus
-- 📂 C Programs  
-- 📂 Python Practice  
-- 📂 College Lab Work  
-- 📂 Logic & Problem-Solving Exercises  
-
+╔══════════════════════════════════════════════╗
+║             REPOSITORY MATRIX                ║
+╠══════════════════════════════════════════════╣
+║ 📂 C Programs                                ║
+║ 📂 Python Practice                           ║
+║ 📂 College Lab Work                          ║
+║ 📂 Logic & Problem-Solving Exercises         ║
+╚══════════════════════════════════════════════╝
 ---
-
+╔══════════════════════════════════════════════╗
+║               SYSTEM STATUS                  ║
+╠══════════════════════════════════════════════╣
+║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓           ║
+║ LEARNING  | BUILDING | ITERATING | DEBUGGING ║
+║ ACCESS    : GRANTED                          ║
+║ STATE     : EVOLVING                         ║
+╚══════════════════════════════════════════════╝
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mitsu-hm&color=00ff99&style=flat-square" />
+🟩 TERMINAL ACTIVE · CODE FLOW STABLE · SKILL TREE EXPANDING 🟩
 </p>
