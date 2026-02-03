@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Python, C and DSA<br>🌱 I’m currently learning DSA<br>
 
 
